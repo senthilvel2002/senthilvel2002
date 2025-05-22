@@ -1,6 +1,17 @@
-<h1>Hi 👋, I'm Senthil vel</h1>
-<p>A passionate Java Full Stack Developer</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h1>👋 Hi, I'm Senthil vel</h1>
+
+<p>🎓 BE Computer Science Engineering Graduate</p>
+<p>💻 Passionate about Full Stack Development | Machine Learning | UI/UX Design</p>
+<p>🛠️ Skilled in Python, Flask, ReactJS, MySQL, Java Spring Boot</p>
+<p>🎨 Creative with Figma, Photoshop, Illustrator, Premiere Pro</p>
+<p>📱 Building smart healthcare apps and real-time IoT projects</p>
+
+<h2>📫 Connect with me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/senthilvels2002/" target="_blank">🔗 LinkedIn</a> |
+  <a href="https://senthilvel2002.github.io/Portfolio/" target="_blank">🌐 Portfolio</a>
+</p>
+
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
