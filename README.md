@@ -1,3 +1,5 @@
+<img src="github_banner.png" alt="github_banner.png" width="100%" />
+
 <h1>👋 Hi, I'm Senthil vel</h1>
 
 <p>🎓 BE Computer Science Engineering Graduate</p>
