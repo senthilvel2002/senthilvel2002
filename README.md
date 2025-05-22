@@ -1,4 +1,4 @@
-<img src="github_banner.png" alt="github_banner.png" width="100%" />
+<img src="githun_banner.png" alt="githun_banner.png" width="100%" />
 
 <h1>👋 Hi, I'm Senthil vel</h1>
 
