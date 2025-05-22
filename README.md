@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Senthil vel</h1>
+<h1>👋 Hi, I'm Vigneshwaran</h1>
 
 <p>🎓 BE Computer Science Engineering Graduate</p>
 <p>💻 Passionate about Full Stack Development | Machine Learning | UI/UX Design</p>
@@ -7,21 +7,13 @@
 <p>📱 Building smart healthcare apps and real-time IoT projects</p>
 
 <h2>📫 Connect with Me</h2>
+<p>
+  🔗 <a href="https://www.linkedin.com/in/senthilvels2002/" target="_blank">Visit my LinkedIn</a> |
+  🌐 <a href="https://senthilvel2002.github.io/Portfolio/" target="_blank">Check out my Portfolio</a>
+</p>
 
-<div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/senthilvels2002/" target="_blank" style="text-decoration: none;">
-    <div style="padding: 10px 20px; background-color: #0077b5; color: white; border-radius: 8px; font-weight: bold;">
-      🔗 LinkedIn
-    </div>
-  </a>
-
-  <a href="https://senthilvel2002.github.io/Portfolio/" target="_blank" style="text-decoration: none;">
-    <div style="padding: 10px 20px; background-color: #333; color: white; border-radius: 8px; font-weight: bold;">
-      🌐 Portfolio
-    </div>
-  </a>
-</div>
-
+<br>
+<br>
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
