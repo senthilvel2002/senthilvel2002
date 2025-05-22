@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Vigneshwaran</h1>
+<h1>👋 Hi, I'm Senthil vel</h1>
 
 <p>🎓 BE Computer Science Engineering Graduate</p>
 <p>💻 Passionate about Full Stack Development | Machine Learning | UI/UX Design</p>
