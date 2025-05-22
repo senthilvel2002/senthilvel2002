@@ -1,13 +1,14 @@
 <img src="githun_banner.png" alt="githun_banner.png" width="100%" />
 
 <h1>👋 Hi, I'm Senthil vel</h1>
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=senthilvel2002&label=Profile%20views&color=0e75b6&style=flat" alt="senthilvel2002" /> </p>
 <p>🎓 BE Computer Science Engineering Graduate</p>
 <p>💻 Passionate about Full Stack Development | Machine Learning | UI/UX Design</p>
 <p>🛠️ Skilled in Python, Flask, ReactJS, MySQL, Java Spring Boot</p>
 <p>🎨 Creative with Figma, Photoshop, Illustrator, Premiere Pro</p>
 <p>📱 Building smart healthcare apps and real-time IoT projects</p>
-
+<br>
 <h2>📫 Connect with Me</h2>
 <p>
   🔗 <a href="https://www.linkedin.com/in/senthilvels2002/" target="_blank">Visit my LinkedIn</a> |
