@@ -12,7 +12,8 @@
 <h2>📫 Connect with Me</h2>
 <p>
   🔗 <a href="https://www.linkedin.com/in/senthilvels2002/" target="_blank">Visit my LinkedIn</a> |
-  🌐 <a href="https://senthilvel2002.github.io/Portfolio/" target="_blank">Check out my Portfolio</a>
+  🌐 <a href="https://senthilvel2002.github.io/Portfolio/" target="_blank">Check out my Portfolio</a> | 
+    🔗 <a href="[https://www.linkedin.com/in/senthilvels2002/"](https://leetcode.com/u/Senthil_vel_S/) target="_blank">Visit my Leetcode</a> 
 </p>
 
 <br>
